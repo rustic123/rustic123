@@ -12,3 +12,6 @@ coding minecraft clients, discord bots, and coding in general. You can check out
 
 ## Discord Status
 <img src="https://discord.c99.nl/widget/theme-4/892121471781052486.png" width="512" >
+
+## Discord Profile
+<img src="https://discordid.netlify.app/?id=892121471781052486" width="512" >
